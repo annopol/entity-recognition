@@ -1,3 +1,8 @@
+##### Introduction 
+Purpose of this file is to provide a theoretical introduction to the entity recognition and analytical approaches used to perform it.
+File XX.ipynb contains implementation of machine learning approach applied on NLP-based transformations on textual data.
+
+
 **Entity recognition** 
  (also known as named entity recognition NER), is a fundamental task that involves identifying and classifying named entities within collection of various data sources (e.q. a given text or tabular data) for their deduplication (various data sources) and/or identification (mostly in the text). Named entities refer to specific words or phrases that represent real-world objects, such as persons, organizations, locations, dates, quantities, and more.
 
