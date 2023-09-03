@@ -1,6 +1,6 @@
 ##### Introduction 
 Purpose of this file is to provide a theoretical introduction to the entity recognition and analytical approaches used to perform it.
-File XX.ipynb contains implementation of machine learning approach applied on NLP-based transformations on textual data.
+The notebook Entity_Resolution.ipynb describes a simple implementation of machine learning approach applied on NLP-based transformations on textual data.
 
 
 **Entity recognition** 
